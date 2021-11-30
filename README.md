@@ -1,5 +1,3 @@
-# LC-Projects
-
 
 *Avaliação:*
 - *Trabalho 1 - 15 valores*
