@@ -1,6 +1,6 @@
 
 *Avaliação:*
-- *Trabalho 1: B*
-- *Trabalho 2: B+*
-- *Trabalho 3: A-*
-- *Trabalho 4: B*
+- *Trabalho 1: 14*
+- *Trabalho 2: 15*
+- *Trabalho 3: 16*
+- *Trabalho 4: 14*
